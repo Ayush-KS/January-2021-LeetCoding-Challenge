@@ -12,3 +12,9 @@ Also, I will be changing the language I code in every week!
     > Implementation | 
     > Time: O(n*n) |
     > Space: O(1) 
+
+* Day 2: [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3590/)
+
+    > DFS | 
+    > Time: O(n) |
+    > Space: O(n) 

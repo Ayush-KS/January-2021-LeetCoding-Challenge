@@ -9,12 +9,18 @@ Also, I will be changing the language I code in every week!
 
 * Day 1: [Check Array Formation Through Concatenation](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3589/)
 
-    > Implementation | 
+    > Implementation |
     > Time: O(n*n) |
-    > Space: O(1) 
+    > Space: O(1)
 
 * Day 2: [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3590/)
 
-    > DFS | 
+    > DFS |
     > Time: O(n) |
-    > Space: O(n) 
+    > Space: O(n)
+
+* Day 3: [Beautiful Arrangement](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3591/)
+
+    > Backtracking |
+    > Time: O(k) [Valid Permutations] |
+    > Space: O(n)

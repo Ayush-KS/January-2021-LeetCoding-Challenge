@@ -24,3 +24,9 @@ Also, I will be changing the language I code in every week!
     > Backtracking |
     > Time: O(k) [Valid Permutations] |
     > Space: O(n)
+
+* Day 4: [Merge Two Sorted Lists](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3592/)
+
+    > Implementation |
+    > Time: O(n) |
+    > Space: O(1)

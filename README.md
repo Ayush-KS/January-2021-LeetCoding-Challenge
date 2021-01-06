@@ -30,3 +30,9 @@ Also, I will be changing the language I code in every week!
     > Implementation |
     > Time: O(n) |
     > Space: O(1)
+
+* Day 5: [Remove Duplicates from Sorted List II](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3593/)
+
+    > Implementation |
+    > Time: O(n) |
+    > Space: O(1)

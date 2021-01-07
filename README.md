@@ -36,3 +36,9 @@ Also, I will be changing the language I code in every week!
     > Implementation |
     > Time: O(n) |
     > Space: O(1)
+
+* Day 6: [Kth Missing Positive Number](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3594/)
+
+    > Binary Search |
+    > Time: O(logn) |
+    > Space: O(1)

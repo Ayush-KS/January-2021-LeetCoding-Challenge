@@ -2,8 +2,6 @@
 
 This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/) consisting of 31 daily problems over the month of January. A problem is added each day, and we have 24 hours to make a valid submission. I will be uploading my solutions in this repository after the deadline to make a valid submission for the given problem has passed. 
 
-Also, I will be changing the language I code in every week!
-
 
 ## Week 1: January 1st – January 7th [C++]
 
@@ -48,3 +46,12 @@ Also, I will be changing the language I code in every week!
     > Two Pointer |
     > Time: O(n) |
     > Space: O(1)
+    
+
+## Week 2: January 8th – January 14th [C++]
+
+* Day 8: [Check If Two String Arrays are Equivalent](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3597/)
+
+    > Implementation |
+    > Time: O(n) |
+    > Space: O(n)

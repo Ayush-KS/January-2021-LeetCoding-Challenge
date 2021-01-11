@@ -61,3 +61,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/ja
     > BFS |
     > Time: O(m^2 * n) |
     > Space: O(m^2 * n)
+
+* Day 10: [Create Sorted Array through Instructions](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3599/)
+
+    > Fenwick Tree |
+    > Time: O(nlogn) |
+    > Space: O(n)

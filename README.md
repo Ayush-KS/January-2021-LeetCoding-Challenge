@@ -67,3 +67,10 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/ja
     > Fenwick Tree |
     > Time: O(nlogn) |
     > Space: O(n)
+
+* Day 11: [Merge Sorted Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3600/)
+
+    > Two Pointer |
+    > Time: O(n) |
+    > Space: O(1)
+

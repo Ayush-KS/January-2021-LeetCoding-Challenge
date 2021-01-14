@@ -79,3 +79,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/ja
     > Implementation |
     > Time: O(n) |
     > Space: O(1)
+
+* Day 13: [Boats to Save People](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3601/)
+
+    > Two Pointer |
+    > Time: O(n) |
+    > Space: O(1)

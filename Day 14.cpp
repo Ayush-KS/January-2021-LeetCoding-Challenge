@@ -27,6 +27,7 @@ public:
         if(sum == x) {
             ans = min(ans, left + n - right - 1); 
         }
+        
         return sum == x ? ans : -1;
     }
 };

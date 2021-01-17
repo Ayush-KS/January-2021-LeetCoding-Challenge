@@ -92,8 +92,17 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/ja
     > Time: O(n) |
     > Space: O(1)
 
+
+## Week 3: January 15th – January 21st [C++]
+
 * Day 15: [Get Maximum in Generated Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3605/)
 
     > Simulation |
     > Time: O(n) |
     > Space: O(n)
+
+* Day 16: [Kth Largest Element in an Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3606/)
+
+    > Quickselect |
+    > Time: O(n) [Average] |
+    > Space: O(logn) [Average]

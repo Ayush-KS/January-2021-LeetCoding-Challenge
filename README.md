@@ -106,3 +106,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/ja
     > Quickselect |
     > Time: O(n) [Average] |
     > Space: O(logn) [Average]
+
+* Day 17: [Count Sorted Vowel Strings](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3607/)
+
+    > Dynamic Programming |
+    > Time: O(n) |
+    > Space: O(n)

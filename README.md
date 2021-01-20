@@ -118,3 +118,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/ja
     > Hashing |
     > Time: O(n) |
     > Space: O(n)
+
+* Day 19: [Longest Palindromic Substring](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3609/)
+
+    > Manacher's Algorithm |
+    > Time: O(n) |
+    > Space: O(n)

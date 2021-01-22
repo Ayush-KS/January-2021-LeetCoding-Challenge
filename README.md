@@ -130,3 +130,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/ja
     > Stack |
     > Time: O(n) |
     > Space: O(n)
+
+* Day 21: [Find the Most Competitive Subsequence](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3611/)
+
+    > Stack |
+    > Time: O(n) |
+    > Space: O(k)

@@ -50,43 +50,43 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/ja
 
 ## Week 2: January 8th – January 14th [C++]
 
-* Day 8: [Check If Two String Arrays are Equivalent](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3597/)
+* Day 8: [Check If Two String Arrays are Equivalent](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3597/)
 
     > Implementation |
     > Time: O(n) |
     > Space: O(n)
 
-* Day 9: [Word Break](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3598/)
+* Day 9: [Word Break](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3598/)
 
     > BFS |
     > Time: O(m^2 * n) |
     > Space: O(m^2 * n)
 
-* Day 10: [Create Sorted Array through Instructions](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3599/)
+* Day 10: [Create Sorted Array through Instructions](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3599/)
 
     > Fenwick Tree |
     > Time: O(nlogn) |
     > Space: O(n)
 
-* Day 11: [Merge Sorted Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3600/)
+* Day 11: [Merge Sorted Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3600/)
 
     > Two Pointer |
     > Time: O(n) |
     > Space: O(1)
 
-* Day 12: [Add Two Numbers](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3601/)
+* Day 12: [Add Two Numbers](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3601/)
 
     > Implementation |
     > Time: O(n) |
     > Space: O(1)
 
-* Day 13: [Boats to Save People](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3601/)
+* Day 13: [Boats to Save People](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3601/)
 
     > Two Pointer |
     > Time: O(n) |
     > Space: O(1)
 
-* Day 14: [Minimum Operations to Reduce X to Zero](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3602/)
+* Day 14: [Minimum Operations to Reduce X to Zero](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3602/)
 
     > Two Pointer |
     > Time: O(n) |
@@ -95,44 +95,53 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/ja
 
 ## Week 3: January 15th – January 21st [C++]
 
-* Day 15: [Get Maximum in Generated Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3605/)
+* Day 15: [Get Maximum in Generated Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3605/)
 
     > Simulation |
     > Time: O(n) |
     > Space: O(n)
 
-* Day 16: [Kth Largest Element in an Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3606/)
+* Day 16: [Kth Largest Element in an Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3606/)
 
     > Quickselect |
     > Time: O(n) [Average] |
     > Space: O(logn) [Average]
 
-* Day 17: [Count Sorted Vowel Strings](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3607/)
+* Day 17: [Count Sorted Vowel Strings](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3607/)
 
     > Dynamic Programming |
     > Time: O(n) |
     > Space: O(n)
 
-* Day 18: [Max Number of K-Sum Pairs](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3608/)
+* Day 18: [Max Number of K-Sum Pairs](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3608/)
 
     > Hashing |
     > Time: O(n) |
     > Space: O(n)
 
-* Day 19: [Longest Palindromic Substring](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3609/)
+* Day 19: [Longest Palindromic Substring](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3609/)
 
     > Manacher's Algorithm |
     > Time: O(n) |
     > Space: O(n)
 
-* Day 20: [Valid Parentheses](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3610/)
+* Day 20: [Valid Parentheses](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3610/)
 
     > Stack |
     > Time: O(n) |
     > Space: O(n)
 
-* Day 21: [Find the Most Competitive Subsequence](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3611/)
+* Day 21: [Find the Most Competitive Subsequence]https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3611/)
 
     > Stack |
     > Time: O(n) |
     > Space: O(k)
+
+
+## Week 4: January 22nd – January 28th [C++]
+
+* Day 22: [Determine if Two Strings Are Close](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3613/)
+
+    > Hashing |
+    > Time: O(n) |
+    > Space: O(1)

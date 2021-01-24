@@ -145,3 +145,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/ja
     > Hashing |
     > Time: O(n) |
     > Space: O(1)
+
+* Day 23: [Sort the Matrix Diagonally](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3614/)
+
+    > Hashing |
+    > Time: O(m*n(log(n)) |
+    > Space: O(n)

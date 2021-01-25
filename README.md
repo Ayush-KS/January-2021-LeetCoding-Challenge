@@ -151,3 +151,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/ja
     > Hashing |
     > Time: O(m*n(log(n)) |
     > Space: O(n)
+
+* Day 24: [Merge K Sorted Lists](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3615/)
+
+    > Heap |
+    > Time: O(n*klog(k)) |
+    > Space: O(k)

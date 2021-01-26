@@ -157,3 +157,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/ja
     > Heap |
     > Time: O(n*klog(k)) |
     > Space: O(k)
+
+* Day 25: [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3616/)
+
+    > Implementation |
+    > Time: O(n) |
+    > Space: O(1)

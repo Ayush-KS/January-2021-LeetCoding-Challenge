@@ -167,5 +167,11 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/ja
 * Day 26: [Path With Minimum Effort](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3617/)
 
     > Dijkstra's |
-    > Time: O(n) |
+    > Time: O(m*nlog(m*n)) |
+    > Space: O(1)
+    
+* Day 27: [Concatenation of Consecutive Binary Numbers](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3618/)
+
+    > Bitwise Manipulation |
+    > Time: O(nlogn) |
     > Space: O(1)

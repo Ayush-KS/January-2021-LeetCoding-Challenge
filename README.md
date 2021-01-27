@@ -163,3 +163,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/ja
     > Implementation |
     > Time: O(n) |
     > Space: O(1)
+
+* Day 26: [Path With Minimum Effort](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3617/)
+
+    > Dijkstra's |
+    > Time: O(n) |
+    > Space: O(1)

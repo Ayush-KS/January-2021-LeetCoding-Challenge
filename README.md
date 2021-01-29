@@ -175,3 +175,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/ja
     > Bitwise Manipulation |
     > Time: O(nlogn) |
     > Space: O(1)
+    
+* Day 28: [Smallest String With A Given Numeric Value](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3618/)
+
+    > Greedy |
+    > Time: O(n) |
+    > Space: O(n)

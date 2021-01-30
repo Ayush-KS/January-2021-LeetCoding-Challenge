@@ -181,3 +181,12 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/ja
     > Greedy |
     > Time: O(n) |
     > Space: O(n)
+
+
+## Week 5: January 29th – January 31st [C++]
+
+* Day 29: [Vertical Order Traversal of a Binary Tree](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/583/week-5-january-29th-january-31st/3621/)
+
+    > BFS |
+    > Time: O(n) |
+    > Space: O(n)

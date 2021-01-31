@@ -190,3 +190,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/ja
     > BFS |
     > Time: O(n) |
     > Space: O(n)
+
+* Day 30: [Minimize Deviation in Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/583/week-5-january-29th-january-31st/3622/)
+
+    > Heap |
+    > Time: O(nlogn) |
+    > Space: O(n)

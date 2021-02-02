@@ -196,3 +196,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/ja
     > Heap |
     > Time: O(nlogn) |
     > Space: O(n)
+
+* Day 31: [Next Permutation](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/583/week-5-january-29th-january-31st/3623/)
+
+    > Narayana Pandita's Algorithm |
+    > Time: O(n) |
+    > Space: O(1)
